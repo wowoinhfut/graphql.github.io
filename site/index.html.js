@@ -77,7 +77,7 @@ module.exports = ({ page, section }) =>
 
     <section className="point1" id="predictable-results">
       <div className="prose">
-        <h2>请求你所要的数据<br />不多不少</h2>
+        <h2>返回你所请求的数据<br />不多不少</h2>
         {/*[Illustration: just a simple query and response?]*/}
         <p>向你的 API 发出一个 GraphQL 请求就能准确获得你想要的数据，不多不少。 GraphQL 查询总是返回可预测的结果。使用 GraphQL 的应用可以工作得又快又稳，因为控制数据的是应用，而不是服务器。</p>
       </div>
